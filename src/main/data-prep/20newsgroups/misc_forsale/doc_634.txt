@@ -4,7 +4,7 @@ dimensions of #1 and #5 (important to camcorder users).
     1. Large padded Cordura bag (maker unknown) orange exterior, black
 	 straps and interior.  Five outside pockets plus lid compartment.
 	 Lid overlaps.  Internal dividers can be repositioned.  Held
-	 my whole 2-1/4 Bronica system, Metz flash, etc.  Main chamber
+	 my whole 2-1/4 Bronica system, Metz flash, etc.  org.example.controller.desktop.DesktopApplication chamber
 	 (not incl lid and pockets) is 18.5"W x 9"H x 7" D.  Very
 	 strong bag, good for medium format users or videographers.
 
@@ -16,7 +16,7 @@ dimensions of #1 and #5 (important to camcorder users).
 
     4. Domke belt pouch, black.  SORRY. SOLD & SHIPPED.
 
-    5. Coast camera bag - tan with brown strap.  Main and front pocket.
+    5. Coast camera bag - tan with brown strap.  org.example.controller.desktop.DesktopApplication and front pocket.
 	 Can hold AF slr with small zoom plus flash, film, etc. 10.5"H
 	 x 9.5 H x 4.5 D plus 10.5" x 6.5 x 1.5 front pouch. It
 	 looks like Gore-Tex but I don't think it really is. $15.

@@ -8,14 +8,14 @@
 
 : Dean W. Anneser                  Pratt & Whitney Aircraft     
 : Computer System Specialist       m.s. 161-05                       \__ -\  
-: (203)565-9372 (desk) 5016 (fax)  400 Main St.               Ooo.. (_)-V/( )
+: (203)565-9372 (desk) 5016 (fax)  400 org.example.controller.desktop.DesktopApplication St.               Ooo.. (_)-V/( )
 : Uucp:     uunet!pwa-b!anneser    East Hartford, CT  06108    Live to Ride
 : Internet: anneser@pwfire.pweh.utc.com
 : "One test result is worth one thousand expert opinions" -- Wernher Von Braun 
 : -- 
 : Dean W. Anneser                  Pratt & Whitney Aircraft     
 : Computer System Specialist       m.s. 161-05                       \__ -\  
-: (203)565-9372 (desk) 5016 (fax)  400 Main St.               Ooo.. (_)-V/( )
+: (203)565-9372 (desk) 5016 (fax)  400 org.example.controller.desktop.DesktopApplication St.               Ooo.. (_)-V/( )
 : Uucp:     uunet!pwa-b!anneser    East Hartford, CT  06108    Live to Ride
 
 --

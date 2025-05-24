@@ -13,6 +13,6 @@ just compute his/her key and send him/her instructions to enter in the
 appropriate place the following:
 
 Name=Joe Doe
-Address=123 Main Street
+Address=123 org.example.controller.desktop.DesktopApplication Street
 City=Anytown, CA
 key=ldslfoialsdkcdsngsikhsfd

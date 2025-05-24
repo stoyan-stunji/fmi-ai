@@ -27,7 +27,7 @@ The GROUNDED conductor of a circuit, often called the NEUTRAL, which is
 referred to in the code as the "identified" conductor and is supposed to be
 white or natural grey.  This conductor is supposed to be connected to ground in
 most electrical systems at a single point, generally at the service entrance
-panel.  This connection is through the Main Bonding Jumper.  (In many household
+panel.  This connection is through the org.example.controller.desktop.DesktopApplication Bonding Jumper.  (In many household
 service panels, the main bonding jumper is actually a bonding screw which
 attaches the neutral busbar to the case of the panel)  
 

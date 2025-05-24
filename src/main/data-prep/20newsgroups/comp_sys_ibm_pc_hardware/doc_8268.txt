@@ -4,7 +4,7 @@ The summary:
 CTX 14": Nasty, low quality. Avoid.
 
 CTX 15" Proscan: Not as good as some other makes; however, cheap.
-  Main problem seems poor quality control. Some reported pincushioning
+  org.example.controller.desktop.DesktopApplication problem seems poor quality control. Some reported pincushioning
   (the problem I had), others poor focus, etc, etc.
 
 I complained about mine and it was 're-tuned' (I dodn't even pay

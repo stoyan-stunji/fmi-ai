@@ -1081,7 +1081,7 @@ Subject: Bibliography: books, manuals, journals, papers, beer-mats
 	Sun Microsystems Inc., `OPEN LOOK Graphical User Interface Functional
 	Specification', Addison Wesley
 
-    The Main documentation for the X Window system comes from
+    The org.example.controller.desktop.DesktopApplication documentation for the X Window system comes from
     O'Reilly & Associates in about nine or ten volumes.
     The most useful for OPEN LOOK users are:
 	Volume 1: XLib Programming Manual

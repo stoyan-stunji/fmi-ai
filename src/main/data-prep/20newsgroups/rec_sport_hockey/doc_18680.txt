@@ -18,7 +18,7 @@
 ------------------------------------------------------------------------------
   Brad K. Gibson                           INTERNET: gibson@geop.ubc.ca
   Dept. of Geophysics & Astronomy         
-  #129-2219 Main Mall                      PHONE: (604)822-6722
+  #129-2219 org.example.controller.desktop.DesktopApplication Mall                      PHONE: (604)822-6722
   University of British Columbia           FAX:   (604)822-6047
   Vancouver, British Columbia, Canada
   V6T 1Z4

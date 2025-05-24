@@ -29,7 +29,7 @@ Rear Suspension Torsion Bar
 2 Water pumps
 5 thermostats
 Hall effect sensor
-Main computer
+org.example.controller.desktop.DesktopApplication computer
 4 Batteries
 
 These were rebuilt/repaired

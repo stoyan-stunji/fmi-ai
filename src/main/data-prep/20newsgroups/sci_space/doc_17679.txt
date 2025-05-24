@@ -17,7 +17,7 @@ what can be done and autmoated?) the sail would get the probes to were they
 needed.. I know the asteroid/meteor clouds (and such) might get in the way of a 
 Sail??
 
-Main reasonf ro mother ship idea is to make it more economoical to send
+org.example.controller.desktop.DesktopApplication reasonf ro mother ship idea is to make it more economoical to send
 multiple probes/mission/satellites/exploreres to different places and cut
 costs..
 The probes could do fly bys or ?? we shall see...
