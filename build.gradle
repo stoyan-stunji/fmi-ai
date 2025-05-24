@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.example'
+version = '1.0-SNAPSHOT'
+
+sourceCompatibility = '17'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    implementation 'org.apache.lucene:lucene-core:8.11.2'
+    implementation 'org.apache.lucene:lucene-analyzers-common:8.11.2'
+    implementation 'org.apache.mahout:mahout-math:0.13.0'
+    implementation 'org.apache.opennlp:opennlp-tools:1.9.4'
+    implementation 'org.apache.commons:commons-math3:3.6.1'
+    implementation 'org.slf4j:slf4j-simple:2.0.9'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+// Позволява да стартираш приложението с `./gradlew run`
+application {
+    mainClass = 'Main' // промени на твоя Main клас
+}

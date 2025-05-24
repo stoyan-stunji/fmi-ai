@@ -1,0 +1,32 @@
+Archive-name: space/probe Last-modified: $Date: /01 :19 PLANETARY PROBES HISTORICAL MISSIONS This section was lightly adapted 
+from an original posting by Larry Klaes (klaes@verga.enet.dec.com), mostly minor formatting changes. 
+	US PLANETARY MISSIONS MARINER (VENUS, MARS, MERCURY FLYBYS AND ORBITERS) MARINER 1, the first attempt 
+to send a spacecraft to Venus, failed minutes after launch in 1962. 
+	The guidance instructions from the ground stopped reaching the rocket due to a problem with 
+its antenna, so the onboard computer took control. 
+	Many scientists concluded from this preliminary scan that Mars was a "dead" world in both 
+the geological and biological sense. 
+	It reconfirmed the data on that planet collected five years earlier by MARINER 2, plus 
+the information that Venus' atmospheric pressure at its surface is at least 90 times that 
+of Earth's, or the equivalent of being feet under the surface of an ocean. 
+	MARINER 9, the sister probe to MARINER 8, became the first craft to orbit Mars 
+in 1971. 
+	PIONEER (MOON, SUN, VENUS, JUPITER, and SATURN FLYBYS AND ORBITERS) PIONEER 1 through 3 failed 
+to meet their main objective to photograph the Moon close-up but they did reach far 
+enough into space to provide new information on the area between Earth and the Moon, 
+including new data on the Van Allen radiation belts circling Earth. 
+	PIONEER 5 was originally designed to flyby Venus, but the mission was scaled down and 
+it instead studied the interplanetary environment between Venus and Earth out to million kilometers in 
+1960, a record until MARINER 2. 
+	PIONEER E sent four small probes into the atmosphere in December of 1978. 
+	RANGER (LUNAR LANDER AND IMPACT MISSIONS) RANGER 1 and 2 were test probes for the 
+RANGER lunar impact series. 
+	SURVEYOR (LUNAR SOFT LANDERS) The SURVEYOR series were designed primarily to see if an APOLLO 
+lunar module could land on the surface of the Moon without sinking into the soil 
+(before this time, it was feared by some that the Moon was covered in great 
+layers of dust, which would not support a heavy landing vehicle). 
+	The probe went into Martian orbit on June 19, 1976, and the lander set down 
+on the western slopes of Chryse Planitia on July 20, 1976. 
+	LUNA 2 First craft to impact on lunar surface in 1959. 
+	SOVIET VENUS PROBES VENERA 1 First acknowledged attempt at Venus mission. 
+	Kelly Beatty et al, THE NEW SOLAR SYSTEM, 1990.
