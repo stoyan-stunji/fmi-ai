@@ -1,0 +1,32 @@
+Archive-name: graphics/resources-list/part3 Last-modified: /27 Computer Graphics Resource Listing WEEKLY POSTING Last Change 27 April 1993 
+11. 
+	Scene generators/geographical data/Maps/Data files DEMs (Digital Elevation Models) DEMs (Digital Elevation Models) as well as 
+other cartographic data is available from spectrum.xerox.com /pub/map. 
+	Contact: Lee Moore Webster Research Center, Xerox Corp Voice: +1 /pub/dems nfotis Many of these 
+files are also available on selled by USGS: , scale Digital Line Graph (DLG) Data". 
+	The Data User Services Division of the Bureau of the Census also has data on 
+(TSO standard format) that is derived from USGS ,000 map data. 
+	This chart consists of over gigabytes of reasonable quality vector data distributed on four .... 
+	includes coastlines, rivers, roads, railrays, airports,cities, towns, spot elevations, and depths, and over place names." 
+It is ISO9660 compatible and only available from: Geological Survey Box 25286 Denver Federal Center 
+Denver, CO 80225 Digital Distribution Services Energy, Mines, and Resources Canada 615 Booth Street Ottawa, 
+ON K1A 0E9 Canada Director General of Military Survey (Survey 3) Elmwood Avenue Feltham, Middlesex 
+TW13 7AH United Kingdom Director of Survey, Australian Army Department of Defense Campbell Park Offices 
+Many of the programs are available from the FTP sites and mail archive servers. 
+	It uses a PHIGS extension known as polyline sets for performance, but you can use 
+regular polylines. 
+	The raw data at Stanford require the vplot package to be able to view it. 
+	(softlab@cs.unc.edu) The data sets (volume I and II) are also available via anonymous FTP from 
+omicron.cs.unc.edu in pub/softlab/CHVRTD NASA Many US agencies such as NASA publish ROMs with many altimetry 
+data from various space missions, eg. 
+	Earth Sciences Data There's a listing of anonymous FTP sites for earth science data, including 
+imagery. 
+	Check out anonymous FTP to ftp.ncsa.uiuc.edu in PolyView/alpha-shape for a tool that creates convex hulls 
+alpha-shapes (a generalization of the convex hull) from 3D point sets. 
+	Code for viewing ADRG (Arc Digitised Raster Graphics) files is available on the GRIPS II 
+The Army Engineer Topographic Labs (Juan Perez) code is also available via FTP adrg.zip archive 
+in spectrum.xerox.com NRCC range data Rioux M., Cournoyer L. 
+	Suite South Pasadena, CA -88, Fax soon in bit TIFF format. 
+	Image annotation software a. 
+	GIS (Geographical Information Systems software) GRASS (Geographic Resource Analysis Support System) of the US Army 
+Construction Engineering Research Lab (CERL).

@@ -1,0 +1,28 @@
+Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modified: 5 April 1993 Version: Constructing a Logical Argument Although there 
+is much argument on Usenet, the general quality of argument found is poor. 
+	This article attempts to provide a gentle introduction to logic, in the hope of improving 
+the general level of debate. 
+	Logic is the science of reasoning, proof, thinking, or inference Logic allows us to analyze 
+a piece of reasoning and determine whether it is correct or not (valid or invalid). 
+	Of course, one does not need to study logic in order to reason correctly; nevertheless, 
+a little basic knowledge of logic is often helpful when constructing or analyzing an argument. 
+	The matter is very much open for debate. 
+	A proposition is a statement which is either true or false; for example, "It is 
+raining" or "Today is Tuesday". 
+	The proposition is the meaning of the statement, not the particular arrangement of words used 
+to express it. 
+	These are called the premises of the argument. 
+	They are the evidence or reasons for accepting the argument and its conclusions. 
+	If something doesn't seem obvious to you, don't be afraid to question it. 
+	There are various forms of valid inference. 
+	For example: Every event has a cause (premise) The universe has a beginning (premise) All 
+beginnings involve an event (premise) This implies that the beginning of the universe involved an 
+event (inference) Therefore the universe has a cause (inference and conclusion) Note that the conclusion 
+of one argument might be a premise in another argument. 
+	In everyday English the term "fallacy" is used to refer to mistaken beliefs as well 
+as to the faulty reasoning that leads to those beliefs. 
+	ARGUMENTUM AD BACULUM (APPEAL TO FORCE) The Appeal to Force is committed when the arguer 
+resorts to force or the threat of force in order to try and push the 
+acceptance of a conclusion. 
+	The Abusive variety of Argumentum ad Hominem occurs when, instead of trying to disprove the 
+truth of an assertion, the arguer attacks the person or people making the assertion.

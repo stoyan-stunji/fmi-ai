@@ -1,0 +1,29 @@
+Archive-name: jpeg-faq Last-modified: 2 May 1993 This FAQ article discusses JPEG image compression. 
+	New since version of 18 April 1993: New version of XV supports bit viewing for 
+X Windows. 
+	New versions of DVPEG Image Alchemy for DOS. 
+	New versions of Image Archiver PMView for New listing: MGIF for monochrome-display Ataris. 
+	Why use JPEG? 
+	How well does JPEG compress images? 
+	What are good "quality" settings for JPEG? 
+	"canned" software, viewers, etc source code What's all this hoopla about color quantization? 
+	Why all the argument about file formats? 
+	If you don't get a reply, the server may be misreading your return address; add 
+a line such as "path myname@mysite" to specify your correct e-mail address to reply to. 
+	JPEG is "lossy", meaning that the image you get out of decompression isn't quite identical 
+to what you originally put in The algorithm achieves much of its compression by exploiting 
+known limitations of the human eye, notably the fact that small color details aren't perceived 
+as well as small details of light-and-dark. 
+	You can make *extremely* small files if you don't mind poor quality; this is useful 
+for indexing image archives, making thumbnail views or icons, etc etc Conversely, if you aren't 
+happy with the output quality at the default compression setting, you can jack up the 
+quality until you are satisfied, and accept lesser compression. 
+	Why use JPEG? 
+	How well does JPEG compress images? 
+	The first three files are for comparison purposes; the rest were created with the free 
+JPEG software described in section 6B. 
+	What are good "quality" settings for JPEG? 
+	Most of the programs described in this section are available by FTP. 
+	The major advantage of these tools is that they will read and write s proprietary 
+JPEG format as well as the Usenet-standard JFIF format. 
+	Why all the argument about file formats?

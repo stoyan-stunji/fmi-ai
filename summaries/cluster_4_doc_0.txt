@@ -1,0 +1,36 @@
+Archive-name: graphics/resources-list/part2 Last-modified: /17 Computer Graphics Resource Listing WEEKLY POSTING Last Change 17 April 1993 
+14. 
+	Plotting packages Gnuplot It is one of the best 2- and plotting packages, with online 
+help.It's a command-line driven interactive function plotting utility for UNIX, MSDOS, Amiga, Archimedes, and VMS 
+platforms The comp.graphics.gnuplot newsgroup is devoted to discussion of Gnuplot. 
+	Xvgr and Xmgr gr) Xmgr is an plotting tool for UNIX workstations using X or 
+OpenWindows. 
+	There is an XView version called xvgr for Suns. 
+	Collectively, these 2 tools are known as gr. 
+	Check at ftp.ccalmr.ogi.edu Xgobi It's being developed at Bellcore, and its speciality are multidimensional data 
+sets analysis and exploration. 
+	To get it via e-mail, send email to statlib@temper.stat.cmu.edu and in the body area of 
+the message, put the line send xgobi from general If you want to pick it 
+via ftp, connect to lib.stat.cmu.edu. 
+	It's a set of fortran routines freely available that includes contour plots and support for 
+various devices, including ps. 
+	Features: ASCII import and export; EPS export; copy, cut, paste with data buffer; free number 
+of data points, data buffer, and document window; selective open and save plotting in many 
+styles; automatic legend; subviews; linear and logarithmic axes; two different axes; text and graphic; color 
+support; zoom; normalizing and moving; axis conversions; free hand data manipulations background subtractions (linear,shirley,tougaard, bezier); 
+integration and relative integration; fitting of one or more free defined functions; linear regression; calculations 
+and large (super) alike. 
+	Despite its small size and quickness, it has enough power to satisfy most users, including: 
+standard x-y plots, semilog plots, log-log plots, contour plots, 3D plots, mesh plots, bar charts 
+and pie charts. 
+	Many different output device drivers are available (system dependent), including a portable metafile format and 
+renderer. 
+	It provides LaTEX quality fonts, as well as full support for Postscript fonts. 
+	Image analysis software Image processing and display PC and Mac-based tools (multi-platform software) IMDISP IMDISP 
+Written at JPL and other NASA sites. 
+	Can read TIFF images, if you know their dimensions LabVIEW 2 LabVIEW is used as 
+a framework for image processing tools. 
+	Runs on HP9000 with Supports bit display" HIPS (Human Information Processing Laboratory's Image Processing System) 
+Michael Landy co-wrote and sell a general-purpose package for image processing which has been used 
+for basically all the usual image processing applications in precisely the same manner as single 
+frames.

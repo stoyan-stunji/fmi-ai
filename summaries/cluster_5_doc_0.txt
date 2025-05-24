@@ -1,0 +1,47 @@
+Thanks to all who responded to my original post. 
+	I got the number for Western Digital tech support and determined that I need to 
+upgrade the BIOS to the Super BIOS. 
+	It will handle hard drives with up to 16 read/ write heads and up to 
+1024 cylinders. 
+	The upgrade is $15, payable by check or money order. 
+	Send to: Western Digital Corporation Technical Support Group Box 19665 Irvine, CA The Super BIOS 
+is for any WD XT hard drive controller card in the WD1002 series. 
+	The BIOS on my system would only handle up to 20mb drives. 
+	Make sure that the twisted cable is for a hard disk (and not a floppy 
+disk) the coloured stripe (pin 1) should be furthest from the twist. 
+	PRODUCTS FOR XT SYSTEMS HARD DISK CONTROLLERS FOR MFM HARD DISK DRIVES Reference NOTE 1. 
+	feature F300R Half-slot size hard disk controller card with an interface. 
+	It supports 2 MFM drives with up to 16 heads and 1024 cylinders and is 
+jumper configurable for secondary addressing and default drive tables. 
+	Built in ROM BIOS supports non-standard drive types, virtual drive formatting, dual drive operation, bad 
+track formatting and dynamic formatting. 
+	This board features a power connector for filecard applications and it will also operate in 
+AT systems. 
+	feature F300R Half-slot size hard disk controller card with an interface. 
+	It supports 2 MFM drives with up to 16 heads and 1024 cylinders and is 
+jumper configurable for secondary addressing and default drive tables. 
+	Built in ROM BIOS supports non-standard drive types, virtual drive formatting, dual drive operation, bad 
+track formatting and dynamic formatting. 
+	This board features a power connector for filecard applications and it will also operate in 
+AT systems. 
+	feature F300R Half-slot size hard disk controller card with an interface. 
+	Built in ROM BIOS supports non-standard drive types, virtual drive formatting, dual drive operation, bad 
+track formatting and dynamic formatting. 
+	This board features a power connector for filecard applications and it will also operate in 
+AT systems. 
+	Built in ROM BIOS supports non-standard drive types, virtual drive formatting, dual drive operation, bad 
+track formatting and dynamic formatting. 
+	Four versions of the board are available: Feature F001 supports two floppy disk drives. 
+	Feature F002 supports four floppy disk drives and includes an optional pin control, data and 
+power connector and an optional pin power connector. 
+	The optional ROM BIOS will also allow this controller card to operate high density floppy 
+disk drives in an XT system. 
+	The optional ROM BIOS will also allow this controller card to operate high density floppy 
+disk drives in an XT system. 
+	Four versions of the board are available: Feature F001 supports two floppy disk drives. 
+	Feature F002 supports four floppy disk drives and includes an optional pin control, data and 
+power connector and an optional pin power connector. 
+	The optional ROM BIOS will also allow this controller card to operate high density floppy 
+disk drives in an XT system. 
+	The optional ROM BIOS will also allow this controller card to operate high density floppy 
+disk drives in an XT system.
