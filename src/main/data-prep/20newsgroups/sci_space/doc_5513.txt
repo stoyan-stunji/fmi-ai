@@ -642,7 +642,7 @@ REFERENCES ON SPECIFIC AREAS
 
     The American Radio Relay League
     Publications Department
-    225 Main Street
+    225 org.example.controller.desktop.DesktopApplication Street
     Newington, CT 06111
     (203)-666-1541
 

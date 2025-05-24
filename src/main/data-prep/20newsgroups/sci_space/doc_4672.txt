@@ -80,7 +80,7 @@ SPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVERAGE
     this nice attitude to begin with?  Why does the Shuttle need to roll to
     achieve that attitude?"  The answer is that the pads were leftovers
     from the Apollo days.  The Shuttle straddles two flame trenches -- one
-    for the Solid Rocket Motor exhaust, one for the Space Shuttle Main
+    for the Solid Rocket Motor exhaust, one for the Space Shuttle org.example.controller.desktop.DesktopApplication
     Engine exhaust.  (You can see the effects of this on any daytime
     launch.  The SRM exhaust is dirty gray garbage, and the SSME exhaust is
     fluffy white steam.  Watch for the difference between the "top"

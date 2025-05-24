@@ -242,7 +242,7 @@ LSR: Local Standard of Rest
 LTP: Lunar Transient Phenomenon
 MB: Manned Base
 MCC: Mission Control Center
-MECO: Main Engine CutOff
+MECO: org.example.controller.desktop.DesktopApplication Engine CutOff
 MMH: MonoMethyl Hydrazine
 MMT: Multiple Mirror Telescope
 MMU: Manned Maneuvering Unit
@@ -368,7 +368,7 @@ SRM: Solid Rocket Motor
 SSF: Space Station Fred (er, Freedom)
 SSI: Solid-State Imager (on Galileo)
 SSI: Space Studies Institut
-SSME: Space Shuttle Main Engine
+SSME: Space Shuttle org.example.controller.desktop.DesktopApplication Engine
 SSPF: Space Station Processing Facility
 SSRMS: Space Station Remote Manipulator System
 SST: Spectroscopic Survey Telescope

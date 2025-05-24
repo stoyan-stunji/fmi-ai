@@ -2,7 +2,7 @@
 Shure it is temperature dependent, but this does not clean all your
 problems.
 Based on some exp. I must say that the connections between the power supply
-and the Monitor and Main Board are usable to this failure, Ram simms can be
+and the Monitor and org.example.controller.desktop.DesktopApplication Board are usable to this failure, Ram simms can be
 badly connected due to some corrosion and the powersupply can be in the
 last
 phase (lower Voltage).

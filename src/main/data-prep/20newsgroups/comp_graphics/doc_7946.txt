@@ -733,7 +733,7 @@ pubinfo.jpl.nasa.gov [128.149.6.2]: images, other data, etc. from JPL
 
 spacelink.msfc.nasa.gov [128.158.13.250] (passwd:guest) : space graphics
         and GIF images from NASA's planetary probes and the Hubble Telescope.
-        Main function is support for teachers (you can telnet also to this
+        org.example.controller.desktop.DesktopApplication function is support for teachers (you can telnet also to this
         site). Dial up access: (205)-895-0028 (300/1200/2400/9600(V.32) baud,
         8 bits, no parity, 1 stop bit).
 
@@ -1438,7 +1438,7 @@ VoxelBox
   Contact:
 
   Jaguar Software Inc.
-  573 Main St., Suite 9B
+  573 org.example.controller.desktop.DesktopApplication St., Suite 9B
   Winchester, MA 01890
   (617) 729-3659
   jwp@world.std.com (john w poduska)

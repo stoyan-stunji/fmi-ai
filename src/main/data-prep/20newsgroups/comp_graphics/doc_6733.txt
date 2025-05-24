@@ -45,7 +45,7 @@ The IDCT is based on the Chen-Wang 13 multiplication algorithm [2]
 (not quite the optimum, I know). Blocks with not more than eight non-zero
 coefficients use a non-separated direct multiply-accumulate 2D-IDCT
 (sounds great, doesn't it?), which turned out to be faster than a 'fast'
-algorithm in this (quite common) case. Dithering is pretty standard. Main
+algorithm in this (quite common) case. Dithering is pretty standard. org.example.controller.desktop.DesktopApplication
 difference to the Berkeley decoder (except for the fewer number of supported
 algorithms) is the use of 256 instead of 128 colors, the (default) option to
 use a restricted color-space and the implementation of a color saturation

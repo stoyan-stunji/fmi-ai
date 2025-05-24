@@ -9,7 +9,7 @@ SCSI: only external device expansion interface common to both Mac and IBM.
  expansion {Mac Plus only}, some monitors, and CD-ROM.  Apple developed some 
  specifications for SCSI controlers while IBM has no exact controller 
  specifications {which results in added incompatibilities on IBM machines}.  
- Main problem:  there are a lot of external devices which are internal 
+ org.example.controller.desktop.DesktopApplication problem:  there are a lot of external devices which are internal
  terminated which causes problems for more then two devises off the SCSI port 
  {A SCSI chain is supposed to be terminated ONLY at the begining and at the 
  end.  Any other set up causes problems for either Mac or IBM}. 

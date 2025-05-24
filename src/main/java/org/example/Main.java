@@ -1,12 +1,10 @@
 package org.example;
 
+import org.example.controller.desktop.DesktopApplication;
+
 public class Main {
-    public static void main(String[] args) throws Exception {
-        try {
-            NewsSummarizer newsSummarizer = new NewsSummarizer();
-            newsSummarizer.run(1);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+    public static void main(String[] args) {
+        DesktopApplication app = new DesktopApplication();
+        app.run();
     }
 }

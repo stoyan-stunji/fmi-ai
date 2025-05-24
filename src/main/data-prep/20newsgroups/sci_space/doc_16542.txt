@@ -38,7 +38,7 @@ Rosewell, GA 30076
 --
 Peter Webb 					webb@hks.com
 Hibbitt, Karlsson & Sorensen, Inc.		Voice: 401-727-4200
-1080 Main St, Pawtucket RI 02860		FAX: 401-727-4208 
+1080 org.example.controller.desktop.DesktopApplication St, Pawtucket RI 02860		FAX: 401-727-4208
 
 [Alternatively, you could try to find out who their clients
  will be and tell *them* how you feel.]

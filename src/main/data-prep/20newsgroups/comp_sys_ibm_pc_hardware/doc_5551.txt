@@ -7,7 +7,7 @@ SCSI: only external device expansion interface common to both Mac and IBM.
  expansion {Mac Plus only}, some monitors, and CD-ROM.  Normal {asynchronous}
  SCSI is 5 Mhz;  fast {synchronous} SCSI is 10 Mhz.  Difference between these
  modes is mainly in the software drivers.
- Main problem:  there are a lot of external devices which are internal 
+ org.example.controller.desktop.DesktopApplication problem:  there are a lot of external devices which are internal
  terminated which causes problems for more then two devises off the SCSI port 
  {A SCSI chain is supposed to be terminated ONLY at the begining and end. 
  Any other set up causes problems for either Mac or IBM}. 

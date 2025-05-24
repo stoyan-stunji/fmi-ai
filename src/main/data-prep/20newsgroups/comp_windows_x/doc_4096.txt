@@ -12,7 +12,7 @@ Philip Nguyen
 Research Engineer
 Flexible Manufacturing Research and Development Centre (FMR&D)
 McMaster University
-1280 Main St. West
+1280 org.example.controller.desktop.DesktopApplication St. West
 Hamilton, On L8S 4L7
 Voice: (416) 529-7070 ext 2902 or 7343
 Fax: (416) 572-7944

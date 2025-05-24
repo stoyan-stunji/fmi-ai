@@ -23,7 +23,7 @@ recurring.  These strategies have never been compared directly in a
 large-scale clinical trial until GUSTO.  The results are expected to
 have an important impact on heart attack treatment worldwide.
    The press conference will be held at two locations: live at the
-National Press Club, Main Lounge, 13th Floor, 529 14th St., N.W.,
+National Press Club, org.example.controller.desktop.DesktopApplication Lounge, 13th Floor, 529 14th St., N.W.,
 Washington D.C., and via satellite at The Hotel Macklowe, 145 W. 44th
 Street, 4th Floor, New York City, between Broadway and 6th Avenue.
    GUSTO results will be presented by Eric Topol M.D., GUSTO Study

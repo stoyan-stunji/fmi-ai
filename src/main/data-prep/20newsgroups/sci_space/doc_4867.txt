@@ -436,7 +436,7 @@ THE ELECTRONIC JOURNAL OF
     corrosive atmosphere for up to one month, a large improvement over 
     the VEGA balloons' two days.  The mission would then head out to 
     investigate several planetoids and comets, including a possible 
-    landing on Vesta (thus the mission name), the most reflective Main 
+    landing on Vesta (thus the mission name), the most reflective org.example.controller.desktop.DesktopApplication
     Belt planetoid as seen from Earth.
 
         Unfortunately for Venus exploration, plans began to change in
