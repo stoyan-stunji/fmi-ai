@@ -45,7 +45,7 @@ public class DocumentSummarizerServiceImpl implements DocumentSummarizerService 
     }
 
     private List<String> loadDocuments() throws Exception {
-        List<String> docs = newsRepository.loadNews();
+        List<String> docs = newsRepository.loadDocuments();
         if (docs.isEmpty()) {
             throw new RuntimeException("NewsSummarizerServiceImpl::" +
                     "loadDocuments::NO_documents_loaded");
