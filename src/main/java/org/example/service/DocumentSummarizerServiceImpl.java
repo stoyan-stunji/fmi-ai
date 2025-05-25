@@ -13,15 +13,15 @@ import org.example.controller.ProgressCallback;
 import java.util.List;
 
 public class DocumentSummarizerServiceImpl implements DocumentSummarizerService {
-    private final DocumentRepository newsRepository;
+    private final DocumentRepository docsRepository;
     private final ClusterSummarizer clusterSummarizer;
     private final DocumentPreprocessor preprocessor;
     private final DocumentTokenizer tokenizer;
     private final TFIDFVectorizer vectorizer;
 
-    public DocumentSummarizerServiceImpl(DocumentRepository newsRepository, AbstractSummarizer summarizer) {
-        this.newsRepository = newsRepository;
-        this.clusterSummarizer = new ClusterSummarizer(summarizer, newsRepository);
+    public DocumentSummarizerServiceImpl(DocumentRepository docsRepository, AbstractSummarizer summarizer) {
+        this.docsRepository = docsRepository;
+        this.clusterSummarizer = new ClusterSummarizer(summarizer, docsRepository);
         this.preprocessor = new DocumentPreprocessor();
         this.tokenizer = new DocumentTokenizer();
         this.vectorizer = new TFIDFVectorizer();
@@ -45,7 +45,7 @@ public class DocumentSummarizerServiceImpl implements DocumentSummarizerService 
     }
 
     private List<String> loadDocuments() throws Exception {
-        List<String> docs = newsRepository.loadDocuments();
+        List<String> docs = docsRepository.loadDocuments();
         if (docs.isEmpty()) {
             throw new RuntimeException("NewsSummarizerServiceImpl::" +
                     "loadDocuments::NO_documents_loaded");
