@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class NewsTokenizer {
+public class DocumentTokenizer {
     public List<List<String>> tokenizeDocuments(List<String> documents) {
         return documents.stream()
                 .map(this::tokenize)

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class NewsPreprocessor {
+public class DocumentPreprocessor {
     public List<String> preprocess(List<String> documents) {
         return documents.stream()
                 .map(this::cleanText)

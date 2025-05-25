@@ -1,7 +1,7 @@
 package org.example.service.utility;
 
 import org.example.datastructures.AbstractSummarizer;
-import org.example.storage.NewsRepository;
+import org.example.storage.DocumentRepository;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -9,12 +9,12 @@ import java.util.stream.IntStream;
 
 public class ClusterSummarizer {
     private final AbstractSummarizer summarizer;
-    private final NewsRepository repository;
+    private final DocumentRepository repository;
 
     private final static int maxSummarySentences = 20;
     private final static int minClustersByDocs = 1;
 
-    public ClusterSummarizer(AbstractSummarizer summarizer, NewsRepository repository) {
+    public ClusterSummarizer(AbstractSummarizer summarizer, DocumentRepository repository) {
         this.summarizer = summarizer;
         this.repository = repository;
     }

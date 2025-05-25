@@ -4,26 +4,26 @@ import org.apache.commons.math3.linear.RealMatrix;
 import org.example.datastructures.AbstractSummarizer;
 import org.example.datastructures.kmeans.KMeansClusterer;
 import org.example.service.utility.ClusterSummarizer;
-import org.example.service.utility.NewsTokenizer;
-import org.example.service.utility.NewsPreprocessor;
+import org.example.service.utility.DocumentTokenizer;
+import org.example.service.utility.DocumentPreprocessor;
 import org.example.service.utility.TFIDFVectorizer;
-import org.example.storage.NewsRepository;
+import org.example.storage.DocumentRepository;
 import org.example.controller.ProgressCallback;
 
 import java.util.List;
 
-public class NewsSummarizerServiceImpl implements NewsSummarizerService {
-    private final NewsRepository newsRepository;
+public class DocumentSummarizerServiceImpl implements DocumentSummarizerService {
+    private final DocumentRepository newsRepository;
     private final ClusterSummarizer clusterSummarizer;
-    private final NewsPreprocessor preprocessor;
-    private final NewsTokenizer tokenizer;
+    private final DocumentPreprocessor preprocessor;
+    private final DocumentTokenizer tokenizer;
     private final TFIDFVectorizer vectorizer;
 
-    public NewsSummarizerServiceImpl(NewsRepository newsRepository, AbstractSummarizer summarizer) {
+    public DocumentSummarizerServiceImpl(DocumentRepository newsRepository, AbstractSummarizer summarizer) {
         this.newsRepository = newsRepository;
         this.clusterSummarizer = new ClusterSummarizer(summarizer, newsRepository);
-        this.preprocessor = new NewsPreprocessor();
-        this.tokenizer = new NewsTokenizer();
+        this.preprocessor = new DocumentPreprocessor();
+        this.tokenizer = new DocumentTokenizer();
         this.vectorizer = new TFIDFVectorizer();
     }
 

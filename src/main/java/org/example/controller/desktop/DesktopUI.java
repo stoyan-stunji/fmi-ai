@@ -1,16 +1,16 @@
 package org.example.controller.desktop;
 
 import org.example.controller.ProgressCallback;
-import org.example.service.NewsSummarizerServiceImpl;
+import org.example.service.DocumentSummarizerServiceImpl;
 
 import javax.swing.*;
 import java.awt.*;
 
 public class DesktopUI {
     private final String title;
-    private final NewsSummarizerServiceImpl service;
+    private final DocumentSummarizerServiceImpl service;
 
-    public DesktopUI(String title, NewsSummarizerServiceImpl service) {
+    public DesktopUI(String title, DocumentSummarizerServiceImpl service) {
         this.title = title;
         this.service = service;
     }

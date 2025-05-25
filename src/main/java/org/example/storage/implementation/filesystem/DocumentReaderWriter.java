@@ -8,10 +8,10 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class NewsReaderWriter {
+public class DocumentReaderWriter {
     private final String basePath;
 
-    public NewsReaderWriter(String basePath) {
+    public DocumentReaderWriter(String basePath) {
         this.basePath = basePath;
     }
 
