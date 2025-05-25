@@ -7,17 +7,17 @@ import java.io.IOException;
 import java.util.List;
 
 public class DocumentRepositoryImpl implements DocumentRepository {
-    private final DocumentReaderWriter newsReader;
+    private final DocumentReaderWriter documentsReader;
     private final DocumentReaderWriter summaryWriter;
 
-    public DocumentRepositoryImpl(String newsPath, String summariesPath) {
-        this.newsReader = new DocumentReaderWriter(newsPath);
+    public DocumentRepositoryImpl(String docsPath, String summariesPath) {
+        this.documentsReader = new DocumentReaderWriter(docsPath);
         this.summaryWriter = new DocumentReaderWriter(summariesPath);
     }
 
     @Override
-    public List<String> loadNews() throws IOException {
-        return newsReader.readAllDocuments();
+    public List<String> loadDocuments() throws IOException {
+        return documentsReader.readAllDocuments();
     }
 
     @Override
