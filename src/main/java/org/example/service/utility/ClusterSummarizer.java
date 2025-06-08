@@ -12,7 +12,7 @@ public class ClusterSummarizer {
     private final DocumentRepository repository;
 
     private final static int maxSummarySentences = 20;
-    private final static int minClustersByDocs = 1;
+    private final static int minClustersByDocs = 3;
 
     public ClusterSummarizer(AbstractSummarizer summarizer, DocumentRepository repository) {
         this.summarizer = summarizer;

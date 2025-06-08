@@ -20,7 +20,7 @@ public class PythonScriptRunner {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()))) {
             String line;
             while ((line = reader.readLine()) != null) {
-                System.out.println("[PYTHON] " + line);
+                System.out.println("python " + line);
             }
         }
 
